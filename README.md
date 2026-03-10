@@ -45,5 +45,5 @@
 
 
 <p align="center">
-  <img src="./assets/pic.jpg" alt="Your Name" width="200"/>
+  <img src="./assets/pic.jpg" alt="pic" width="200"/>
 </p>
