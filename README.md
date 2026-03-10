@@ -1,11 +1,11 @@
-# DihelieG
+# DihelieG 💫
 
-<h1 align="center">Hi there✌️ I'm Dihelie. </h1>
+<h1 align="center">Hi there ✌️ I'm Dihelie. </h1>
 
 <h3 align="center">I'm a curious mind motivated by a desire to explore and learn continually. </h3> 
 
 
-### ABOUT ME
+### 😌 ABOUT ME
 - I'm a Software Engineering graduate from the University of Plymouth (UK), currently pursuing a Master of Computer Science (Applied Computing) while also studying LLB.
 - My recent interests revolve around Artificial Intelligence and scientific exploration.
 - I am strongly interested in research, interdisciplinary collaboration, and exploring unconventional ideas. I enjoy working on unique projects that push the boundaries between technology, science, and innovation.
@@ -29,8 +29,24 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-I tend to be blind and that one missing colon leavs me dead
-Me most the time: it doesnt work why? it works why ?
+### 📚 Course Expectations
+
+- To gain a deeper understanding of the theoretical aspects. 
+- To develop a better appreciation of best practices in maintaining large-scale software.
+- To collaborate and learn Django. 
+
+
+### ✨ Fun Facts
+
+- I enjoy reading in my free time — especially books that explore non-existing worlds 🍃.
+- I tend to be a quiet person, but I enjoy meeting new people and collaborating on interesting ideas and projects.
+- Most of my time as a developer is spent thinking:  
+  *“It doesn’t work. Why tho?”* → *“It works. Why tho?”*
+
+
+
+
+
 <!--
 **DihelieG/DihelieG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
