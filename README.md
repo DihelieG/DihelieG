@@ -45,5 +45,6 @@
 
 
 <p align="center">
-  <img src="./pic.jpg" width="400"/>
+  <img src="./pic.jpg" width="200"/><br>
+  <sub>"I believe the quietest minds can build the loudest impacts."</sub>
 </p>
