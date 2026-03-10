@@ -45,15 +45,10 @@
 
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" style="background-color: #f8f9fa; padding: 15px; border: 1px solid #ddd; box-shadow: 5px 5px 15px rgba(0,0,0,0.1);">
-        <img src="pic.jpg" width="250" alt="Dihelie" style="border: 1px solid #eee;">
-        <br>
-        <p style="font-family: 'Courier New', Courier, monospace; margin-top: 10px; color: #555;">
-          <b>// Exploring the intersection of Code & Law</b>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="pic.jpg" 
+       alt="Dihelie" 
+       width="300" 
+       height="300" 
+       style="border-radius: 50%; object-fit: cover; border: 5px solid #68217A; padding: 5px;">
+  <p><i>Building the future, one line of code (and law) at a time.</i></p>
 </div>
