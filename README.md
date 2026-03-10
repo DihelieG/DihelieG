@@ -1,6 +1,6 @@
 # DihelieG 💫
 
-<h1 align="center">Hi there ✌️ I'm Dihelie. </h1>
+<h1 align="center">Hi ✌️ I'm Dihelie. </h1>
 
 <h3 align="center">I'm a curious mind motivated by a desire to explore and learn continually. </h3> 
 
