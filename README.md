@@ -45,3 +45,12 @@
 
 
 ![My Image](pic.jpg)
+<div align="center">
+  <img src="pic.jpg" 
+       alt="Dihelie" 
+       width="280" 
+       height="280" 
+       style="border-radius: 50%; object-fit: cover; border: 6px solid #68217A; padding: 4px; display: block; margin-bottom: 10px;">
+  <br>
+  <code><b>System.out.println("Hello, World!");</b></code>
+</div>
