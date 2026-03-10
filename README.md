@@ -12,6 +12,7 @@
 - I look forward to contributing to research initiatives, collaborating with curious minds, and building meaningful solutions that have real impact.
 
 
+
 ### 🛠️ Languages & Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,11 +30,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+
 ### 📚 Course Expectations
 
 - To gain a deeper understanding of the theoretical aspects. 
 - To develop a better appreciation of best practices in maintaining large-scale software.
 - To collaborate and learn Django. 
+
 
 
 ### ✨ Fun Facts
@@ -44,7 +47,7 @@
   *“It doesn’t work. Why tho?”* → *“It works. Why tho?”*
 
 
+
 <p align="center">
-  <img src="./pic.jpg" width="200"/><br>
-  <sub>"I believe the quietest minds can build the loudest impacts."</sub>
+  <img src="./pic.jpg" width="300"/><br>
 </p>
