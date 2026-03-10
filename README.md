@@ -44,11 +44,10 @@
   *“It doesn’t work. Why tho?”* → *“It works. Why tho?”*
 
 
-<div align="center">
+<p align="center">
   <img src="pic.jpg" 
        alt="Dihelie" 
-       width="300" 
-       height="300" 
-       style="border-radius: 50%; object-fit: cover; border: 5px solid #68217A; padding: 5px;">
-  <p><i>Building the future, one line of code (and law) at a time.</i></p>
-</div>
+       width="280" 
+       height="280" 
+       style="object-fit: cover; border-radius: 20px; box-shadow: 10px 10px 20px rgba(0,0,0,0.2);">
+</p>
