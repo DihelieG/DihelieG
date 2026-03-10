@@ -44,10 +44,4 @@
   *“It doesn’t work. Why tho?”* → *“It works. Why tho?”*
 
 
-<p align="center">
-  <img src="pic.jpg" 
-       alt="Dihelie" 
-       width="280" 
-       height="280" 
-       style="object-fit: cover; border-radius: 20px; box-shadow: 10px 10px 20px rgba(0,0,0,0.2);">
-</p>
+![My Image](pic.jpg)
