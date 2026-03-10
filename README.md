@@ -33,7 +33,6 @@
 ### 📚 Course Expectations
 
 - To gain a deeper understanding of the theoretical aspects. 
-- To develop a better appreciation of best practices in maintaining large-scale software.
 - To collaborate and learn Django. 
 
 
