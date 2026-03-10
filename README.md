@@ -45,5 +45,8 @@
 
 
 <p align="center">
-  <img src="./assets/pic.jpg" alt="pic" width="200"/>
+  <img src="pic.jpg" width="220" height="220" style="border-radius: 50%; border: 4px solid #ED8B00; padding: 5px;" alt="DihelieG">
+</p>
+<p align="center">
+  <sub><i>"It works. Why tho?"</i></sub>
 </p>
