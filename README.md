@@ -32,8 +32,8 @@
 
 ### 📚 Course Expectations
 
-- To gain a deeper understanding of the theoretical aspects. 
-- To collaborate and learn Django. 
+- Deeper understanding of theoretical concepts. 
+- Collaborate and learn Django. 
 
 
 
