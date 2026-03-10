@@ -44,9 +44,16 @@
   *“It doesn’t work. Why tho?”* → *“It works. Why tho?”*
 
 
-<p align="center">
-  <img src="pic.jpg" width="220" height="220" style="border-radius: 50%; border: 4px solid #ED8B00; padding: 5px;" alt="DihelieG">
-</p>
-<p align="center">
-  <sub><i>"It works. Why tho?"</i></sub>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" style="background-color: #f8f9fa; padding: 15px; border: 1px solid #ddd; box-shadow: 5px 5px 15px rgba(0,0,0,0.1);">
+        <img src="pic.jpg" width="250" alt="Dihelie" style="border: 1px solid #eee;">
+        <br>
+        <p style="font-family: 'Courier New', Courier, monospace; margin-top: 10px; color: #555;">
+          <b>// Exploring the intersection of Code & Law</b>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
